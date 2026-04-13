@@ -1,6 +1,6 @@
 # Week 3 – Learning Notes
 
-## 📚 Concepts Learned
+## Concepts Learned
 
 ### 1. Working with Pandas
 
@@ -30,7 +30,7 @@
 * Modular programming approach
 * Separation of concerns (loading, cleaning, saving)
 
-## 🚧 Challenges Faced
+## Challenges Faced
 
 ### 1. Handling Invalid Data Types
 
@@ -49,7 +49,7 @@
 * File path errors
 * Data type conversion warnings
 
-## ✅ Solutions Implemented
+## Solutions Implemented
 
 * Used `pd.to_numeric(errors='coerce')` to handle invalid values
 * Applied mean imputation for missing numeric data
@@ -57,20 +57,20 @@
 * Structured code into reusable functions for clarity
 * Added error handling using try-except blocks
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 * Data cleaning is a critical step in any data pipeline
 * Pandas provides powerful tools for handling structured data
 * Writing modular and reusable code improves scalability
 * Debugging is an essential skill in real-world data scenarios
 
-## 🔄 What I Would Do Differently
+## What I Would Do Differently
 
 * Add logging instead of print statements
 * Use configuration files instead of hardcoding paths
 * Add validation checks before processing data
 
-## 🚀 Next Steps
+## Next Steps
 
 * Learn advanced pandas operations (groupby, joins)
 * Explore working with JSON data

@@ -132,11 +132,11 @@ This helped me understand how data flows across multiple tables.
 * Compared:
 
   * Before indexing → slower (sequential scan)
-  **PostgreSQL performed a Sequential Scan, Entire table was scanned, Slower and inefficient.
+      + PostgreSQL performed a Sequential Scan, Entire table was scanned, Slower and inefficient.
   
   * After indexing → faster (Bitmap index scan/Bitmap heap scan)
-  **Bitmap Index Scan → identifies matching rows using index
-  **Bitmap Heap Scan → retrieves rows efficiently in batches
+      + Bitmap Index Scan → identifies matching rows using index.
+      + Bitmap Heap Scan → retrieves rows efficiently in batches.
 
 
 ## Output

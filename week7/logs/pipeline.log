@@ -1,0 +1,6 @@
+2026-05-31 16:54:48,178 - INFO - Pipeline Started
+2026-05-31 16:54:48,228 - INFO - Data Extracted
+2026-05-31 16:54:48,233 - INFO - Data Transformed
+2026-05-31 16:54:48,234 - INFO - Validation Passed
+2026-05-31 16:54:48,236 - INFO - Data Loaded Successfully
+2026-05-31 16:54:48,236 - INFO - Pipeline Completed

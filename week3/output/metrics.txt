@@ -1,0 +1,4 @@
+total_records: 6
+average_salary: 65000.0
+average_age: 29.75
+department_counts: {'IT': 2, 'HR': 2, 'Finance': 1, 'Unknown': 1}

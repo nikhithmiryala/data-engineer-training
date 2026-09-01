@@ -1,0 +1,21 @@
+2026-05-31 18:14:26,866 - INFO - Pipeline Started
+2026-05-31 18:14:26,876 - INFO - Extraction Complete
+2026-05-31 18:14:26,881 - INFO - Transformation Complete
+2026-05-31 18:14:26,882 - INFO - Validation Passed
+2026-05-31 18:14:26,883 - INFO - Load Successful
+2026-05-31 18:19:18,064 - INFO - Pipeline Started
+2026-05-31 18:19:18,073 - INFO - Extraction Complete
+2026-05-31 18:19:18,079 - INFO - Transformation Complete
+2026-05-31 18:19:18,079 - INFO - Validation Passed
+2026-05-31 18:19:18,081 - INFO - Load Successful
+2026-05-31 18:24:28,088 - INFO - Pipeline Started
+2026-05-31 18:24:28,098 - INFO - Extraction Complete
+2026-05-31 18:24:28,102 - INFO - Transformation Complete
+2026-05-31 18:24:28,104 - INFO - Validation Passed
+2026-05-31 18:24:28,105 - INFO - Load Successful
+2026-05-31 18:30:01,850 - INFO - Pipeline Started
+2026-05-31 18:30:01,857 - ERROR - Pipeline Failed: customers.csv not found
+2026-05-31 18:30:01,857 - INFO - Pipeline Started
+2026-05-31 18:30:01,857 - ERROR - Pipeline Failed: customers.csv not found
+2026-05-31 18:30:01,857 - INFO - Pipeline Started
+2026-05-31 18:30:01,857 - ERROR - Pipeline Failed: customers.csv not found

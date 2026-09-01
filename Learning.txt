@@ -1,0 +1,11 @@
+Created and activated Python virtual environment
+
+Used Git branching for feature isolation
+
+Submitted multiple pull requests
+
+Wrote Python scripts to process CSV data
+
+Improved scripts iteratively with enhancements
+
+Documented project setup and workflow clearly

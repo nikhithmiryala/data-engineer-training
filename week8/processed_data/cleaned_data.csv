@@ -1,0 +1,51 @@
+customer_id,name,city,order_id,amount
+1,Alice,New York,1,1200
+2,Bob,Los Angeles,2,800
+3,Charlie,Dallas,3,600
+4,David,Miami,4,500
+5,Eve,Chicago,5,300
+6,Frank,Houston,6,450
+7,Grace,Seattle,7,700
+8,Hank,Boston,8,650
+9,Ivy,San Francisco,9,900
+10,Jack,Atlanta,10,1000
+11,Alice,New York,11,1200
+12,Bob,Los Angeles,12,800
+13,Charlie,Dallas,13,600
+14,David,Miami,14,500
+15,Eve,Chicago,15,300
+16,Frank,Houston,16,450
+17,Grace,Seattle,17,700
+18,Hank,Boston,18,650
+19,Ivy,San Francisco,19,900
+20,Jack,Atlanta,20,1000
+21,Alice,New York,21,1200
+22,Bob,Los Angeles,22,800
+23,Charlie,Dallas,23,600
+24,David,Miami,24,500
+25,Eve,Chicago,25,300
+26,Frank,Houston,26,450
+27,Grace,Seattle,27,700
+28,Hank,Boston,28,650
+29,Ivy,San Francisco,29,900
+30,Jack,Atlanta,30,1000
+31,Alice,New York,31,1200
+32,Bob,Los Angeles,32,800
+33,Charlie,Dallas,33,600
+34,David,Miami,34,500
+35,Eve,Chicago,35,300
+36,Frank,Houston,36,450
+37,Grace,Seattle,37,700
+38,Hank,Boston,38,650
+39,Ivy,San Francisco,39,900
+40,Jack,Atlanta,40,1000
+41,Alice,New York,41,1200
+42,Bob,Los Angeles,42,800
+43,Charlie,Dallas,43,600
+44,David,Miami,44,500
+45,Eve,Chicago,45,300
+46,Frank,Houston,46,450
+47,Grace,Seattle,47,700
+48,Hank,Boston,48,650
+49,Ivy,San Francisco,49,900
+50,Jack,Atlanta,50,1000
